@@ -66,11 +66,18 @@ flipclock/
 
 ## 📸 Preview
 
-*Add screenshots of your project here.*
+<img width="1845" height="865" alt="image" src="https://github.com/user-attachments/assets/694b9752-a05b-491c-8fe6-100fd81344ca" />
+<img width="1856" height="865" alt="image" src="https://github.com/user-attachments/assets/b4deb31c-b8e0-4fab-9b7e-3acbef3bc653" />
+<img width="1860" height="867" alt="image" src="https://github.com/user-attachments/assets/2d29788e-e35c-488b-947c-d08e0e8a9b43" />
+<img width="1841" height="858" alt="image" src="https://github.com/user-attachments/assets/05920b1a-88a1-4524-91d6-5277d8f58c37" />
+
+
+
+
 
 ## 🌐 Live Demo
 
-*Add your deployed project link here.*
+(https://flipclock-ashy.vercel.app/)
 
 ## 👩‍💻 Author
 
