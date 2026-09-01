@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flipclock-ashy.vercel.app/sitemap.xml
