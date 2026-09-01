@@ -1,32 +1,83 @@
-# React + TypeScript + Vite
+# ⏱️ FlipClock
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern digital flip clock built with **React, TypeScript, and Vite**. The project provides a clean, animated clock interface that displays the current time in a flip-clock style.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🕐 Real-time clock
+* 🔄 Animated flip-clock style display
+* 📱 Responsive design
+* ⚡ Fast performance with Vite
+* 🎨 Clean and modern UI
+* 💻 Built with React and TypeScript
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React**
+* **TypeScript**
+* **Vite**
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
-## Expanding the Oxlint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+### 1. Clone the repository
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+git clone https://github.com/vaishnavi19-nov/flipclock.git
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+### 2. Navigate to the project
+
+```bash
+cd flipclock
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will then be available at the local development URL shown in your terminal.
+
+## 📂 Project Structure
+
+```text
+flipclock/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
+```
+
+## 📸 Preview
+
+*Add screenshots of your project here.*
+
+## 🌐 Live Demo
+
+*Add your deployed project link here.*
+
+## 👩‍💻 Author
+
+**Vaishnavi Pawar**
+
+GitHub: [vaishnavi19-nov](https://github.com/vaishnavi19-nov)
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
